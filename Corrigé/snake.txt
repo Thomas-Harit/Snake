@@ -1,0 +1,24 @@
+1.draw l'ecran
+    window_length :
+    window_height :
+    donner la fonction pour call le draw:
+    ecran
+    apple,
+    snake
+    (garde snake tail de precoder ou donne leur dans le sujet)
+head = SnakeHead(100, 100) = (snakePosition x, snakePosition y)
+apple = Apple(160, 160) = (applePosition x, applePosition y)
+score_board = ScoreDisplay(0, 0) = (scorePos x, scorePos y)
+
+2. move le snake
+    reprend tous dans le paragraphe SNAKE MOVE
+
+3. border du jeu
+    reprend tous SNAKE BORDER
+
+4. Snake eat
+    reprend tous SNAKE EAT
+
+5. modifie des var et amuse toi
+
+
